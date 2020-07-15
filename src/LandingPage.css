@@ -1,0 +1,41 @@
+.LP-Header {
+    text-align: left;
+    font-size: x-large;
+    font-family: SFSemibold;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.LP-MainBody {
+    margin-top: 150px;
+    font-family: SFSemibold;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.lastrow {
+    margin-bottom: 0;
+}
+
+.thumbnails {
+    width: 50px;
+}
+
+.LP-Titles {
+    top: 0;
+    font-family: SFMedium;
+    font-size: 20px;
+}
+
+.LP-Descriptions {
+    font-family: SFLight;
+    font-size: 15px
+}
+
+.LP-Links {
+    float: right;
+}

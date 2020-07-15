@@ -1,3 +1,41 @@
+@font-face {
+  font-family: 'SFBlack';
+  src: local('SFBlack'), url(./Fonts/SFProDisplay-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFBold';
+  src: local('SFBold'), url(./Fonts/SFProDisplay-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFHeavy';
+  src: local('SFHeavy'), url(./Fonts/SFProDisplay-Heavy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFLight';
+  src: local('SFLight'), url(./Fonts/SFProDisplay-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFMedium';
+  src: local('SFMedium'), url(./Fonts/SFProDisplay-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFSemibold';
+  src: local('SFSemibold'), url(./Fonts/SFProDisplay-Semibold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFRegular';
+  src: local('SFRegular'), url(./Fonts/SFProDisplay-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFThin';
+  src: local('SFThin'), url(./Fonts/SFProDisplay-Thin.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SFUltralight';
+  src: local('SFUltralight'), url(./Fonts/SFProDisplay-Ultralight.ttf) format('truetype');
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
