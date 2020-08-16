@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.f63f2856.chunk.css",
-    "main.js": "/website/static/js/main.896c9289.chunk.js",
-    "main.js.map": "/website/static/js/main.896c9289.chunk.js.map",
+    "main.css": "/website/static/css/main.4743f5b6.chunk.css",
+    "main.js": "/website/static/js/main.77d966e0.chunk.js",
+    "main.js.map": "/website/static/js/main.77d966e0.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.45dc44ac.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.45dc44ac.js.map",
     "static/css/2.af3c1da9.chunk.css": "/website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4d073ab8.chunk.js": "/website/static/js/2.4d073ab8.chunk.js",
-    "static/js/2.4d073ab8.chunk.js.map": "/website/static/js/2.4d073ab8.chunk.js.map",
+    "static/js/2.1d94562d.chunk.js": "/website/static/js/2.1d94562d.chunk.js",
+    "static/js/2.1d94562d.chunk.js.map": "/website/static/js/2.1d94562d.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.e2e52f5fa8e01f940ef5cb59af843a35.js": "/website/precache-manifest.e2e52f5fa8e01f940ef5cb59af843a35.js",
+    "precache-manifest.b2458cdbb4319ed8fa014468d45909a5.js": "/website/precache-manifest.b2458cdbb4319ed8fa014468d45909a5.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.f63f2856.chunk.css.map": "/website/static/css/main.f63f2856.chunk.css.map",
-    "static/js/2.4d073ab8.chunk.js.LICENSE.txt": "/website/static/js/2.4d073ab8.chunk.js.LICENSE.txt",
+    "static/css/main.4743f5b6.chunk.css.map": "/website/static/css/main.4743f5b6.chunk.css.map",
+    "static/js/2.1d94562d.chunk.js.LICENSE.txt": "/website/static/js/2.1d94562d.chunk.js.LICENSE.txt",
     "static/media/SFProDisplay-Black.ttf": "/website/static/media/SFProDisplay-Black.bc43a493.ttf",
     "static/media/SFProDisplay-Bold.ttf": "/website/static/media/SFProDisplay-Bold.42d79eba.ttf",
     "static/media/SFProDisplay-Heavy.ttf": "/website/static/media/SFProDisplay-Heavy.28117b03.ttf",
@@ -25,14 +25,15 @@
     "static/media/SFProDisplay-Ultralight.ttf": "/website/static/media/SFProDisplay-Ultralight.7db578a4.ttf",
     "static/media/astrum.png": "/website/static/media/astrum.8fbadcb5.png",
     "static/media/coursera.png": "/website/static/media/coursera.dc19a4a1.png",
-    "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.svg": "/website/static/media/logo.ee7cd8ed.svg",
+    "static/media/scale.svg": "/website/static/media/scale.cc4eb958.svg",
     "static/media/uoft.png": "/website/static/media/uoft.50f540e7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45dc44ac.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4d073ab8.chunk.js",
-    "static/css/main.f63f2856.chunk.css",
-    "static/js/main.896c9289.chunk.js"
+    "static/js/2.1d94562d.chunk.js",
+    "static/css/main.4743f5b6.chunk.css",
+    "static/js/main.77d966e0.chunk.js"
   ]
 }
