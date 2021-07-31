@@ -7,31 +7,31 @@ export default function Links() {
     
     return (
         <div>
-            <Link to='https://github.com/srikanthsrnvs'>
+            <a href='https://github.com/srikanthsrnvs' target="_blank">
                 <Button variant="link">
                     <FaGithub size={30}/>
                 </Button>
-            </Link>
-            <Link to='https://www.linkedin.com/in/srikanthsrnvs/'>
+            </a>
+            <a href='https://www.linkedin.com/in/srikanthsrnvs/' target="_blank">
                 <Button variant="link">
                     <FaLinkedin size={30}/>
                 </Button>
-            </Link>
-            <Link to='https://twitter.com/srikanthsrnvs'>
+            </a>
+            <a href='https://twitter.com/srikanthsrnvs' target="_blank">
                 <Button variant="link">
                     <FaTwitter size={30}/>
                 </Button>
-            </Link>
-            <Link to='https://www.facebook.com/IamGingerTrash'>
+            </a>
+            <a href='https://www.facebook.com/IamGingerTrash' target="_blank">
                 <Button variant="link">
                     <FaFacebook size={30}/>
                 </Button>
-            </Link>
-            <Link to='https://www.instagram.com/srikanth.srinivas'>
+            </a>
+            <a href='https://www.instagram.com/srikanth.srinivas' target="_blank">
                 <Button variant="link">
                     <FaInstagram size={30}/>
                 </Button>
-            </Link>
+            </a>
         </div>
     )
 }
